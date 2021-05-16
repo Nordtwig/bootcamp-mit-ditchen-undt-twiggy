@@ -1,0 +1,10 @@
+div {
+    display: inline;
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: aquamarine;
+}
